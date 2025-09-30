@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Robotics Spatial Understanding",
+  "description": "Unlock Gemini's vision capabilities for Robotics use-cases! Detect objects in images with interactive 2D bounding boxes, points, and segmentation, an essential step in performing robotics tasks.",
+  "requestFramePermissions": []
+}
